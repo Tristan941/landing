@@ -1,0 +1,10 @@
+#banniere
+{
+margin: 0; 
+padding: 0; 
+background-image: url('verticale.jpg'); 
+background-size: cover; 
+background-position: center; 
+background-attachment: fixed; 
+height: 100vh; 
+}
